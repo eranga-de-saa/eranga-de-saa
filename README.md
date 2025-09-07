@@ -2,7 +2,7 @@
 
 I'm a recent **MSc in Computer Science (UBC)** — researcher & engineer working at the intersection of **Human–AI Interaction, Brain–Computer Interfaces, and Generative AI**. I build ML systems (especially for biosignals/time-series) and practical RAG/LLM-powered applications.
 
-📫 erangadesaa@gmail.com · [linkedin.com/in/eranga-de-saa](https://linkedin.com/in/eranga-de-saa) · [github.com/eranga-de-saa](https://github.com/eranga-de-saa)  
+ [linkedin.com/in/eranga-de-saa](https://linkedin.com/in/eranga-de-saa) · [github.com/eranga-de-saa](https://github.com/eranga-de-saa)  
 📍 Kelowna, British Columbia, Canada ·
 
 ---
@@ -55,7 +55,7 @@ I'm a recent **MSc in Computer Science (UBC)** — researcher & engineer working
 ---
 
 ## 🤝 Want to collaborate?
-I enjoy applied research and building products that make ML useful in real-world settings (BCI, legal tech, assistive AI). If you want to collaborate, audit a model, or chat about RAG/EEG projects — reach out: **erangadesaa@gmail.com**.
+I enjoy applied research and building products that make ML useful in real-world settings (BCI, legal tech, assistive AI). If you want to collaborate, audit a model, or chat about RAG/EEG projects — reach out: **[linkedin.com/in/eranga-de-saa](https://linkedin.com/in/eranga-de-saa)**.
 
 ---
 
