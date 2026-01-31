@@ -2,8 +2,9 @@
 
 I'm a recent **MSc in Computer Science (UBC)** — researcher & engineer working at the intersection of **Human–AI Interaction, Brain–Computer Interfaces, and Generative AI**. I build ML systems (especially for biosignals/time-series) and practical RAG/LLM-powered applications.
 
- [linkedin.com/in/eranga-de-saa](https://linkedin.com/in/eranga-de-saa) · [github.com/eranga-de-saa](https://github.com/eranga-de-saa)  
+ [linkedin.com/in/eranga-de-saa](https://linkedin.com/in/eranga-de-saa) · [github.com/eranga-de-saa](https://github.com/eranga-de-saa) . [Resume](https://drive.google.com/drive/folders/1_qVehrTyctOnkQmxDfJodJaosNP3WpPf?usp=sharing)
 📍 Kelowna, British Columbia, Canada ·
+
 
 ---
 
