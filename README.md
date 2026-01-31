@@ -22,7 +22,7 @@ I'm a recent **MSc in Computer Science (UBC)** — researcher & engineer working
 - **Sherlock-GPT: Encoder Transformer** — Custom encoder-only transformer in PyTorch trained on the Sherlock Holmes corpus. Ablation study on capacity vs. performance. [(repo)](https://github.com/eranga-de-saa/Sherlock_GPT)
 
 ### EEG, BCI & Neurosignal ML
-- **EEG-Based Detection of Attentional Lapses** — 64-channel EEG reading+auditory task; MNE preprocessing, ICA/Autoreject, feature engineering (Powerbands, CSP, FBCSP). [(repo)](https://github.com/ovi-lab/EEG_reading_task)  
+- **EEG-Based Detection of Attentional Lapses** — 64-channel EEG reading+auditory task; MNE preprocessing, ICA/Autoreject, feature engineering (Powerbands, CSP, FBCSP). [(repo)](https://github.com/ovi-lab/EEG_reading_task) . [(paper)](https://drive.google.com/drive/folders/1cqQFMGtQ3fDm7tjVSzMKwyA7BRvf398p)  
 - **EEG Motor Imagery Classification (CNNs)** — 1D CNNs on BCI Competition IV Dataset 2a; leave-one-subject-out CV; model comparisons. [(repo)](https://github.com/eranga-de-saa/Motor_imagery_CNN)  
 - **GCNN for EEG Stroop Task Classification** — Graph-based EEG decoding using PyTorch Geometric (MUSE headband experiments). [(repo)](https://github.com/eranga-de-saa/GCN_EEG_Attention_Detection)
 
