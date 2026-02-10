@@ -18,7 +18,7 @@ I'm a recent **MSc in Computer Science (UBC)** — researcher & engineer working
 ## 🚀 Selected Projects
 
 ### ML / RAG / LLM
-- **LawGPT – AI-Powered Legal Assistant (RAG)** — Built a retrieval-augmented legal Q&A using OpenAI embeddings + DataStax Astra DB and a Next.js + LangChain frontend. [(repo)](https://github.com/eranga-de-saa/Legal_GPT)  
+- **LawGPT – AI-Powered Legal Assistant (RAG)** — Built an end-to-end retrieval-augmented QA system using Hugging Face embeddings, Pinecone vector search, OpenAI Responses API, and Redis caching, with a React frontend and Node.js backend. [(repo)](https://github.com/eranga-de-saa/LawGPT)  
 - **Sherlock-GPT: Encoder Transformer** — Custom encoder-only transformer in PyTorch trained on the Sherlock Holmes corpus. Ablation study on capacity vs. performance. [(repo)](https://github.com/eranga-de-saa/Sherlock_GPT)
 
 ### EEG, BCI & Neurosignal ML
